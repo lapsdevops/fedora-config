@@ -2,5 +2,8 @@ add:com.github.marinm.songrec
 add:com.usebottles.bottles
 add:com.github.tchx84.Flatseal
 add:com.anydesk.Anydesk
+add:com.bitwarden.desktop.Locale 
+add:com.bitwarden.desktop
+add:net.lutris.Lutris
 del:com.discordapp.Discord
 
